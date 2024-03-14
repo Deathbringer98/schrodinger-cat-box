@@ -10,12 +10,12 @@ The program solves the time-independent Schrödinger equation for a particle in 
 
 1. **Compile the Program:**
    ```bash
-   javac FreeParticleInBox.java
+   javac Cat.java
    ```
 
 2. **Run the Program:**
    ```bash
-   java FreeParticleInBox
+   java Cat
    ```
 
 3. **Follow the Instructions:**
